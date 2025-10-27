@@ -1,0 +1,4 @@
+# DONTOUCH backup files
+# Add this to your project's .gitignore to exclude backup files from version control
+.dontouch/
+

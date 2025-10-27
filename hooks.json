@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "hooks": {
+    "beforeReadFile": [
+      {
+        "command": "FOLDER/before-read-file.sh"
+      }
+    ],
+    "afterFileEdit": [
+      {
+        "command": "FOLDER/after-file-edit.sh"
+      }
+    ]
+  }
+}
+
